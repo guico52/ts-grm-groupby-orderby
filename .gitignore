@@ -1,0 +1,8 @@
+# 项目排除路径
+/node_modules/
+/node_modules/@standard-schema/spec/LICENSE
+/node_modules/@standard-schema/spec/README.md
+/node_modules/@standard-schema/spec/dist/index.cjs
+/node_modules/@standard-schema/spec/dist/index.js
+/node_modules/@ts-grm/core/dist/
+/node_modules/@ts-grm/sql/dist/
